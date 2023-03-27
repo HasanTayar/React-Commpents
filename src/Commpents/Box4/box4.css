@@ -1,0 +1,9 @@
+.Rectangle4 {
+    /* padding: 10px; */
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    margin: 10px;
+    /* margin-left: 60px; */
+    display: flex;
+  }

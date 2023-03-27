@@ -1,0 +1,9 @@
+.Rectangle2 {
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    margin: 40px;
+  }

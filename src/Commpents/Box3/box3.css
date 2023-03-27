@@ -1,0 +1,8 @@
+.Rectangle3 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(255, 0, 170);
+    padding :10px;
+    margin: 40px;
+    display:flex;
+  }
